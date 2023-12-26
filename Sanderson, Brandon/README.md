@@ -22,7 +22,7 @@ Storm archives saga:
 
 Other lectures:
 - [Yumi and the Nightmare Painter](https://github.com/alexgimenez02/eBooks-drive/blob/main/Sanderson%2C%20Brandon/Yumi%20y%20el%20pintor%20de%20pesadillas%20(Brandon%20Sanderson)%20(Z-Library).epub) (Yumi y el Pintor de Pesadillas)
-- [White Sand]() (Arena Blanca)
+- [White Sand](https://github.com/alexgimenez02/eBooks-drive/blob/main/Sanderson%2C%20Brandon/Arena%20Blanca%20(Brandon%20Sanderson)%20(Z-Library).epub) (Arena Blanca)
 - [Tress of the Emerald Sea](https://github.com/alexgimenez02/eBooks-drive/blob/main/Sanderson%2C%20Brandon/Trenza%20del%20mar%20Esmeralda%20(Brandon%20Sanderson)%20(Z-Library).epub) (Trenza del Mar Esmeralda)
 - [The Sunlit Man](https://github.com/alexgimenez02/eBooks-drive/blob/main/Sanderson%2C%20Brandon/El%20hombre%20iluminado%20(Brandon%20Sanderson)%20(Z-Library).epub) (El Hombre Iluminado)
 
