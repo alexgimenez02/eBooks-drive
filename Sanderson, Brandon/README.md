@@ -21,10 +21,10 @@ Storm archives saga:
 14. [Rhythm of War](https://github.com/alexgimenez02/eBooks-drive/blob/main/Sanderson%2C%20Brandon/El%20archivo%20de%20las%20tormentas/El%20Ritmo%20de%20la%20Guerra%20(Brandon%20Sanderson)%20(Z-Library).epub) (El Ritmo de la Guerra)
 
 Other lectures:
-[Yumi and the Nightmare Painter]() (Yumi y el Pintor de Pesadillas)
-[White Sand]() (Arena Blanca)
-[Tress of the Emerald Sea](https://github.com/alexgimenez02/eBooks-drive/blob/main/Sanderson%2C%20Brandon/Trenza%20del%20mar%20Esmeralda%20(Brandon%20Sanderson)%20(Z-Library).epub) (Trenza del Mar Esmeralda)
-[The Sunlit Man]() (El Hombre Iluminado)
+- [Yumi and the Nightmare Painter]() (Yumi y el Pintor de Pesadillas)
+- [White Sand]() (Arena Blanca)
+- [Tress of the Emerald Sea](https://github.com/alexgimenez02/eBooks-drive/blob/main/Sanderson%2C%20Brandon/Trenza%20del%20mar%20Esmeralda%20(Brandon%20Sanderson)%20(Z-Library).epub) (Trenza del Mar Esmeralda)
+- [The Sunlit Man]() (El Hombre Iluminado)
 
 Sources: 
  - https://cosmere.es/orden-de-lectura-del-cosmere/
